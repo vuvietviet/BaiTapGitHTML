@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FormDangKyHocVien</title>
+    <style>
+        table{
+            background-color: darkkhaki;
+        }
+        .muc{
+            color: blue;
+            text-align:left ;
+        }
+    </style>
+</head>
+<body> <form action="google.com">
+    <table>
+        <tr style="color: aqua; background-color: blue;">
+            <th style="text-align: center" colspan="2">Đăng ký học viên</th>
+        </tr>
+        <tr>
+            <th class="muc">Họ và tên</th>
+            <th><input type="text" name="fullname"/></th>
+        </tr>
+        <tr>
+            <th class="muc">Ngày sinh</th>
+            <th><input type="text" name="date"/></th>
+        </tr>
+        <tr>
+            <th class="muc">Giới tính</th>
+            <th>
+                <table>
+                    <tr>
+                        <th><input type="radio" name="sex"/>Nam</th>
+                        <th><input type="radio" name="sex"/>Nữ</th>
+                    </tr>
+                </table>
+            </th>
+        </tr>
+        <tr>
+            <th class="muc">Địa chỉ</th>
+            <th><input type="text" name="address" style="height: 50px"/></th>
+        </tr>
+        <tr>
+            <th class="muc">Lớp</th>
+            <th name="class">
+                <select>
+                    <option>Lớp A1</option>
+                    <option>Lớp A2</option>
+                    <option>Lớp A3</option>
+                </select>
+            </th>
+        </tr>
+        <tr>
+            <th class="muc">Email</th>
+            <th><input type="text" name="email"/></th>
+        </tr>
+        <tr>
+            <th class="muc">Điện thoại</th>
+            <th><input type="text" name="phone"/></th>
+        </tr>
+        <tr>
+            <th></th>
+            <th>
+                <table>
+                    <tr>
+                        <th><input type="submit" value="Đăng ký"/></th>
+                        <th><input type="reset" value="Nhập lại"/></th>
+                    </tr>
+                </table>
+            </th>
+        </tr>
+
+    </table></form>
+</body>
+</html>

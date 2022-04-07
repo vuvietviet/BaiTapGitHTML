@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a788c739-2594-4a51-9156-46b29c48c59b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FormDangKyHocVien.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FormSoThichCuaBanTable.html" beforeDir="false" afterPath="$PROJECT_DIR$/FormSoThichCuaBanTable.html" afterDir="false" />
-    </list>
+    <list default="true" id="a788c739-2594-4a51-9156-46b29c48c59b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +53,7 @@
       <workItem from="1649227129119" duration="5909000" />
       <workItem from="1649250751657" duration="96000" />
       <workItem from="1649250886971" duration="9409000" />
-      <workItem from="1649297222560" duration="15020000" />
+      <workItem from="1649297222560" duration="15325000" />
     </task>
     <servers />
   </component>

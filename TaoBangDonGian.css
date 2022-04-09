@@ -1,0 +1,44 @@
+.left {
+    color: blue;
+    text-align: left;
+    padding-left: 20px;
+}
+.right {
+    color: blue;
+   text-align: right;
+    padding-right: 20px;
+}
+table {
+    width: 100%;
+}
+#thu {
+    background-color: yellow;
+    text-align: center;
+}
+.rong {
+    width: 100px;
+}
+.head {
+    background-color: orange;
+}
+.others {
+    text-align: left;
+}
+h1 {
+    color: blue;
+}
+.bang {
+    border-collapse: collapse;
+}
+.can, .weeks, .rong,.others{
+    border: 1px solid black;
+    border-top: 1px solid white;
+}
+
+.dau {
+    border: 1px solid black;
+    padding: 0;
+}
+.others, .weeks {
+    font-weight: normal;
+}

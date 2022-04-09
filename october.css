@@ -1,0 +1,51 @@
+body {
+    padding: 5px;
+}
+table {
+    border-collapse: collapse;
+}
+h2, .xanh {
+    color: blue;
+}
+.do {
+    color: red;
+}
+.hred {
+    background-color: red;
+}
+.horange {
+    background-color: orange;
+}
+.hblue {
+    background-color: blue;
+}
+sub {
+    color: black;
+    font-size: xx-small;
+}
+.hred, .horange, .hblue {
+    color: white;
+}
+th, td {
+    width: 60px;
+    text-align: center;
+    padding: 3px;
+    border: 2px solid lightsteelblue;
+}
+td {
+    height: 30px;
+    font-size: large;
+}
+#sun, #sat, .thuta{
+    height: 20px;
+    border-left-color: white;
+    border-right-color: white;
+    border-top-color: white;
+}
+th {
+    border-color: white;
+    border-width: 1px;
+}
+
+
+

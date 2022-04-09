@@ -1,0 +1,31 @@
+tr:nth-child(odd) td:nth-child(even) {
+    background-color: black;
+}
+tr:nth-child(even) td:nth-child(odd) {
+    background: black;
+}
+th{
+    background-color: orange;
+    width: 50px;
+    height: 50px;
+}
+.headD, .lastC {
+    background-color: orange;
+}
+.hc1, .headD, .hc2{
+    width: 30px;
+
+}
+.hc, .hc3, .hc1 {
+    height: 30px;
+}
+.hc2, .hclast, .hc4 {
+    height: 10px;
+}
+.lastC, .hc3, .hc4 {
+    width: 10px;
+}
+.headD {
+    text-align: right;
+}
+
